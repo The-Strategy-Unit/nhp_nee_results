@@ -1,0 +1,78 @@
+"strategyGroup","strategyType","strategyLabel","experts_main","mean","sd","percentile10","percentile90"
+"Emergency department and acute medicine activity","A&E attendance avoidance","Frequent attenders (adult ambulance conveyed)",10,24.6388655967087,20.3202563150207,5.20054176241889,55.8334696809423
+"Emergency department and acute medicine activity","A&E attendance avoidance","Frequent attenders (adult walk-in)",10,18.7148073959848,14.7737751680795,3.95311829441431,39.1155211041476
+"Emergency department and acute medicine activity","A&E attendance avoidance","Frequent attenders (child ambulance conveyed)",10,22.6150450840965,20.3908158192756,2.7733802055812,53.1766062461769
+"Emergency department and acute medicine activity","A&E attendance avoidance","Frequent attenders (child walk-in)",10,20.7340122857978,17.4562163188211,1.69440434674231,44.0105067487288
+"Emergency department and acute medicine activity","A&E attendance avoidance","Low cost discharged attendances (adult ambulance conveyed)",10,30.8007998513287,20.3904684201495,6.74998935519406,59.8912680667679
+"Emergency department and acute medicine activity","A&E attendance avoidance","Low cost discharged attendances (adult walk-in)",11,25.2563146195966,19.0583540288613,5.0694703237623,53.7552625350765
+"Emergency department and acute medicine activity","A&E attendance avoidance","Low cost discharged attendances (child ambulance conveyed)",11,22.5408523916671,20.2983475845419,0.880039791162098,52.0032275473737
+"Emergency department and acute medicine activity","A&E attendance avoidance","Low cost discharged attendances (child walk-in)",11,25.1589860791776,21.0170442821507,3.35214884309608,56.1798536127234
+"Emergency department and acute medicine activity","A&E attendance avoidance","Patients who leave before being seen (adult ambulance conveyed)",10,24.6995318966034,19.4277341785895,4.19480728126518,51.9773347215058
+"Emergency department and acute medicine activity","A&E attendance avoidance","Patients who leave before being seen (adult walk-in)",10,32.4185871337812,22.5392307629457,2.89823427264805,65.0556991249359
+"Emergency department and acute medicine activity","A&E attendance avoidance","Patients who leave before being seen (child ambulance conveyed)",10,30.6351721933011,25.5232531376323,2.39925661946242,69.7171498827512
+"Emergency department and acute medicine activity","A&E attendance avoidance","Patients who leave before being seen (child walk-in)",10,32.9091419933924,25.4290492740912,3.12177393735341,70.4622459402615
+"Emergency department and acute medicine activity","length of stay reduction","Ambulatory emergency care (high potential)",12,24.9882074231388,19.3237901439148,1.31090600587703,51.953022978014
+"Emergency department and acute medicine activity","length of stay reduction","Ambulatory emergency care (low potential)",12,24.8706373156798,24.1881484614427,3.95073241385083,69.3475889293324
+"Emergency department and acute medicine activity","length of stay reduction","Ambulatory emergency care (moderate potential)",12,27.2738936673894,19.5739037986878,4.14794592821893,53.1312735423614
+"Emergency department and acute medicine activity","length of stay reduction","Ambulatory emergency care (very high potential)",11,35.2603967145431,23.4430492071189,3.41106556348418,64.9007453980228
+"Hospital activity ameanable to medicines management","inpatient admission avoidance","Medicines related admissions (explicit)",5,15.7454695945329,14.7261367046194,2.35567385965341,36.9525431180226
+"Hospital activity ameanable to medicines management","inpatient admission avoidance","Medicines related admissions (implicit - anti-diabetics)",5,29.449035172455,22.599522468357,4.63489036880313,62.4237786872948
+"Hospital activity ameanable to medicines management","inpatient admission avoidance","Medicines related admissions (implicit - benzodiazepines)",5,12.7374891926454,13.7198066822778,0.525433312247171,32.4742525420316
+"Hospital activity ameanable to medicines management","inpatient admission avoidance","Medicines related admissions (implicit - diuretics)",5,16.8105534542703,16.3540783517413,1.03913764216803,40.7837272301325
+"Hospital activity ameanable to medicines management","inpatient admission avoidance","Medicines related admissions (implicit - NSAIDS)",4,18.8368702858794,20.0919842598035,2.3663364747312,49.6870562365099
+"Hospital activity ameanable to primary care and community interventions","inpatient admission avoidance","Admission with no overnight stay and no procedure (adults)",5,24.8514229484446,20.6195037510127,2.4744562021779,54.1504282274728
+"Hospital activity ameanable to primary care and community interventions","inpatient admission avoidance","Admission with no overnight stay and no procedure (children)",5,19.6136845309504,17.026996608908,2.47260278276862,44.8649087753739
+"Hospital activity ameanable to primary care and community interventions","inpatient admission avoidance","Ambulatory care sensitive admissions (acute conditions)",7,23.7539794475173,21.3578025251087,2.92796577089182,56.3754332831234
+"Hospital activity ameanable to primary care and community interventions","inpatient admission avoidance","Ambulatory care sensitive admissions (chronic conditions)",7,24.8929211961571,22.1970029613096,2.90028369683069,59.0108328633903
+"Hospital activity ameanable to primary care and community interventions","inpatient admission avoidance","Ambulatory care sensitive admissions (vaccine preventable conditions)",6,22.2054571398276,19.2846526106662,2.6636648702399,48.3261155653197
+"Hospital activity ameanable to primary care and community interventions","inpatient admission avoidance","Emergency readmissions within 28 days",5,16.4102036720964,14.5845373282177,4.05406565065185,36.5658878750616
+"Hospital activity ameanable to primary care and community interventions","inpatient admission avoidance","End of life care admissions (died within 2 days)",5,27.912215857857,23.1328583451011,6.28803746446386,65.4477317831424
+"Hospital activity ameanable to primary care and community interventions","inpatient admission avoidance","End of life care admissions (died within 3-14 days)",5,20.4162833670785,18.6247126529816,4.70902301980372,49.6518831345482
+"Hospital activity ameanable to primary care and community interventions","inpatient admission avoidance","Frail elderly admissions (high frailty risk)",5,5.71322037197702,7.52008879632174,0.433233964245399,16.396980854232
+"Hospital activity ameanable to primary care and community interventions","inpatient admission avoidance","Frail elderly admissions (intermediate frailty risk)",5,8.63511622533023,8.52993563720038,0.894231797155396,20.7983189540055
+"Hospital activity ameanable to primary care and community interventions","length of stay reduction","Emergency admissions of older people",7,17.4019336539022,16.7589384703308,3.95648988549772,39.2701025680488
+"Hospital activity ameanable to primary care and community interventions","length of stay reduction","Excess beds days (elective admissions)",6,23.3837803378005,20.8000046775618,2.9817242647108,55.0141645885173
+"Hospital activity ameanable to primary care and community interventions","length of stay reduction","Excess beds days (emergency admissions)",6,27.2965806254067,20.6295784151436,3.09350302359396,55.7959170557166
+"Hospital activity ameanable to primary care and community interventions","length of stay reduction","Stroke early supported discharge",5,17.9674669413738,18.8019478616294,3.34015854652882,44.6161180106711
+"Hospital activity ameanable to psychiatric liaison and community psychiatry","inpatient admission avoidance","Intentional self-harm admission",4,18.3270732628613,21.0977306449631,2.07153415442903,52.356480329535
+"Hospital activity ameanable to psychiatric liaison and community psychiatry","inpatient admission avoidance","Medically unexplained symptoms admissions",4,13.3306680247157,16.8230800266654,1.1664720145501,38.819772051932
+"Hospital activity ameanable to psychiatric liaison and community psychiatry","inpatient admission avoidance","Mental health admissions via ED",3,14.7709069493385,18.5324340258898,1.92815718898439,45.2317465486683
+"Hospital activity ameanable to psychiatric liaison and community psychiatry","length of stay reduction","Admissions with mental health comorbidities",4,15.413426266502,18.4804069710016,3.05141576813996,47.6586131806774
+"Hospital activity amenable to public health interventions","inpatient admission avoidance","Alcohol related admissions (acute conditions - partially attributable)",6,23.4105576915056,23.5263524114405,2.47738092846283,60.0794268875574
+"Hospital activity amenable to public health interventions","inpatient admission avoidance","Alcohol related admissions (chronic conditions - partially attributable)",6,17.4085717196494,16.3639658807706,2.09803614283312,39.8424202316419
+"Hospital activity amenable to public health interventions","inpatient admission avoidance","Alcohol related admissions (wholly attributable)",5,14.9340812999932,18.5225245928394,1.85029800650502,40.9618888653833
+"Hospital activity amenable to public health interventions","inpatient admission avoidance","Falls related admissions",4,14.0894049662649,18.2121843366107,1.28508461396642,43.0651934974906
+"Hospital activity amenable to public health interventions","inpatient admission avoidance","Obesity related admissions",3,15.1715204972829,18.0095222078245,1.9805606801059,44.6164671269368
+"Hospital activity amenable to public health interventions","inpatient admission avoidance","Smoking related admissions",4,15.6853633563209,17.2997750107988,1.13327850330541,40.0166116259102
+"Planned medical activity (adult)","outpatient attendance avoidance","Consultant to consultant referrals (adult non-surgical)",11,18.6850782909485,15.541282940847,2.39245537596568,41.8483447903859
+"Planned medical activity (adult)","outpatient attendance avoidance","Follow-up attendances (adult non-surgical)",12,34.1299779031553,21.9995135886554,4.03686068521502,62.9391585891812
+"Planned medical activity (adult)","outpatient delivery mode","Telephone appointments (adult non-surgical)",12,31.0153050477101,22.3071653086703,7.10120220540052,65.6067980403946
+"Planned paediatric activity","outpatient attendance avoidance","Consultant to consultant referrals (child non-surgical)",7,22.6912440788837,19.2931833067111,4.20206823462825,52.7388008104311
+"Planned paediatric activity","outpatient attendance avoidance","Consultant to consultant referrals (child surgical)",7,20.0328485360308,19.5157526555379,2.25307849650523,50.6150229997996
+"Planned paediatric activity","outpatient attendance avoidance","Follow-up attendances (child non-surgical)",8,17.5167320975769,14.7386260343726,3.56482067995724,40.0188629851725
+"Planned paediatric activity","outpatient attendance avoidance","Follow-up attendances (child surgical)",8,16.4153023478841,15.5391951948713,2.41948020773714,40.4734476577408
+"Planned paediatric activity","outpatient delivery mode","Telephone appointments (child non-surgical)",7,27.4115620528721,18.6133172354515,8.20520270466686,55.4608717407449
+"Planned paediatric activity","outpatient delivery mode","Telephone appointments (child surgical)",8,27.8620662289951,17.7993929218912,9.95839448058792,53.8015863517798
+"Planned surgical activity (adult)","inpatient admission avoidance","Cancelled operations",11,32.4942231693988,21.3293052279469,6.76774950381004,65.326288261878
+"Planned surgical activity (adult)","inpatient admission avoidance","Interventions with limited evidence - ENT",11,46.286288103407,23.8360579457541,11.817779493236,76.6563752392752
+"Planned surgical activity (adult)","inpatient admission avoidance","Interventions with limited evidence - General surgery",10,40.2400029540868,23.1405902249735,11.2791575224655,72.7815925820494
+"Planned surgical activity (adult)","inpatient admission avoidance","Interventions with limited evidence - GI surgery",10,20.192721711447,17.8613940602,3.22215433970144,47.2180010765802
+"Planned surgical activity (adult)","inpatient admission avoidance","Interventions with limited evidence - MSK",10,45.3684556693812,24.2709205812817,10.7334614437457,78.3677405458697
+"Planned surgical activity (adult)","inpatient admission avoidance","Interventions with limited evidence - Urology",10,36.715173332129,25.5566237019394,3.7137931846608,74.1573657538414
+"Planned surgical activity (adult)","inpatient admission avoidance","Interventions with limited evidence - Vascular",11,48.2727123886208,22.0661323770644,19.8203899249263,78.5720286671057
+"Planned surgical activity (adult)","length of stay reduction","Elective spells with overnight stay before surgery",12,45.9116596335979,20.740264629231,17.7242743188343,72.8976926065014
+"Planned surgical activity (adult)","length of stay reduction","Elective surgery - recommended mainly day case",13,36.0111225846457,20.1714480336264,13.264482691108,65.9391960887601
+"Planned surgical activity (adult)","length of stay reduction","Elective surgery - recommended mainly outpatient procedure",12,44.5089590515632,25.0831389325403,14.3358622851369,80.6061160559842
+"Planned surgical activity (adult)","length of stay reduction","Elective surgery - recommended mainly outpatient procedure or day case",12,37.3103101964376,22.0174562474493,10.9117966964153,69.9384423076132
+"Planned surgical activity (adult)","length of stay reduction","Elective surgery - recommended occasional day case",12,29.537875857068,23.5070669677028,5.20219414189243,64.1636099749834
+"Planned surgical activity (adult)","length of stay reduction","Enhanced recovery (bladder surgery)",12,34.1982363046124,21.3225312178801,8.66558161000049,65.5868645798
+"Planned surgical activity (adult)","length of stay reduction","Enhanced recovery (breast surgery)",13,39.8140419107316,26.2831104527672,5.71206204278295,77.1658568319044
+"Planned surgical activity (adult)","length of stay reduction","Enhanced recovery (colectomy)",13,23.5318555382883,18.2092032715417,5.27371488990675,49.4048336131504
+"Planned surgical activity (adult)","length of stay reduction","Enhanced recovery (hip surgery)",13,41.0351609355307,22.8278174052059,7.06974010676299,70.72544522157
+"Planned surgical activity (adult)","length of stay reduction","Enhanced recovery (hysterectomy)",13,28.3106237210023,23.5481044712735,4.66876719425759,66.6604384750731
+"Planned surgical activity (adult)","length of stay reduction","Enhanced recovery (knee surgery)",13,39.1539767025194,22.4470035148698,7.84504242299918,70.7562167015496
+"Planned surgical activity (adult)","length of stay reduction","Enhanced recovery (prostate surgery)",12,30.4333815906596,20.7734820736294,7.78019609652275,60.3247646094491
+"Planned surgical activity (adult)","length of stay reduction","Enhanced recovery (rectal surgery)",12,22.1234001989428,18.465782713876,4.59679803066857,48.2076691449247
+"Planned surgical activity (adult)","outpatient attendance avoidance","Consultant to consultant referrals (adult surgical)",8,21.5238248800605,17.0037513411842,2.89179683975969,46.4435206997675
+"Planned surgical activity (adult)","outpatient attendance avoidance","Follow-up attendances (adult surgical)",9,25.1024553521473,21.1644476457982,2.85126175589391,57.4310486437333
+"Planned surgical activity (adult)","outpatient delivery mode","Telephone appointments (adult surgical)",9,33.1886909339097,22.9711304243467,8.66015526788817,68.4982990341971

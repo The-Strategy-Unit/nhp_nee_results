@@ -1,0 +1,78 @@
+strategy,strategyLabel,strategyType,strategyGroup
+alcohol_wholly_attributable,Alcohol related admissions (wholly attributable),inpatient admission avoidance,Hospital activity amenable to public health interventions
+alcohol_partially_attributable-acute,Alcohol related admissions (acute conditions - partially attributable),inpatient admission avoidance,Hospital activity amenable to public health interventions
+alcohol_partially_attributable-chronic,Alcohol related admissions (chronic conditions - partially attributable),inpatient admission avoidance,Hospital activity amenable to public health interventions
+obesity_related_admissions,Obesity related admissions,inpatient admission avoidance,Hospital activity amenable to public health interventions
+smoking,Smoking related admissions,inpatient admission avoidance,Hospital activity amenable to public health interventions
+falls_related_admissions,Falls related admissions,inpatient admission avoidance,Hospital activity amenable to public health interventions
+ambulatory_care_conditions_acute,Ambulatory care sensitive admissions (acute conditions),inpatient admission avoidance,Hospital activity ameanable to primary care and community interventions
+ambulatory_care_conditions_chronic,Ambulatory care sensitive admissions (chronic conditions),inpatient admission avoidance,Hospital activity ameanable to primary care and community interventions
+ambulatory_care_conditions_vaccine_preventable,Ambulatory care sensitive admissions (vaccine preventable conditions),inpatient admission avoidance,Hospital activity ameanable to primary care and community interventions
+readmission_within_28_days,Emergency readmissions within 28 days,inpatient admission avoidance,Hospital activity ameanable to primary care and community interventions
+zero_los_no_procedure-adult,Admission with no overnight stay and no procedure (adults),inpatient admission avoidance,Hospital activity ameanable to primary care and community interventions
+zero_los_no_procedure-child,Admission with no overnight stay and no procedure (children),inpatient admission avoidance,Hospital activity ameanable to primary care and community interventions
+medically_unexplained_related_admissions,Medically unexplained symptoms admissions,inpatient admission avoidance,Hospital activity ameanable to psychiatric liaison and community psychiatry
+raid_ae,Mental health admissions via ED,inpatient admission avoidance,Hospital activity ameanable to psychiatric liaison and community psychiatry
+intentional_self_harm,Intentional self-harm admission,inpatient admission avoidance,Hospital activity ameanable to psychiatric liaison and community psychiatry
+eol_care-0-2_days,End of life care admissions (died within 2 days),inpatient admission avoidance,Hospital activity ameanable to primary care and community interventions
+eol_care-3+_days,End of life care admissions (died within 3-14 days),inpatient admission avoidance,Hospital activity ameanable to primary care and community interventions
+frail_elderly-high,Frail elderly admissions (high frailty risk),inpatient admission avoidance,Hospital activity ameanable to primary care and community interventions
+frail_elderly-intermediate,Frail elderly admissions (intermediate frailty risk),inpatient admission avoidance,Hospital activity ameanable to primary care and community interventions
+medicines_related_admissions_explicit,Medicines related admissions (explicit),inpatient admission avoidance,Hospital activity ameanable to medicines management
+medicines_related_admissions_implicit_anti_diabetics,Medicines related admissions (implicit - anti-diabetics),inpatient admission avoidance,Hospital activity ameanable to medicines management
+medicines_related_admissions_implicit_benzodiasepines,Medicines related admissions (implicit - benzodiazepines),inpatient admission avoidance,Hospital activity ameanable to medicines management
+medicines_related_admissions_implicit_diurectics,Medicines related admissions (implicit - diuretics),inpatient admission avoidance,Hospital activity ameanable to medicines management
+medicines_related_admissions_implicit_nsaids,Medicines related admissions (implicit - NSAIDS),inpatient admission avoidance,Hospital activity ameanable to medicines management
+evidence_based_interventions_ent,Interventions with limited evidence - ENT,inpatient admission avoidance,Planned surgical activity (adult)
+evidence_based_interventions_general_surgery,Interventions with limited evidence - General surgery,inpatient admission avoidance,Planned surgical activity (adult)
+evidence_based_interventions_gi_surgical,Interventions with limited evidence - GI surgery,inpatient admission avoidance,Planned surgical activity (adult)
+evidence_based_interventions_msk,Interventions with limited evidence - MSK,inpatient admission avoidance,Planned surgical activity (adult)
+evidence_based_interventions_urology,Interventions with limited evidence - Urology,inpatient admission avoidance,Planned surgical activity (adult)
+evidence_based_interventions_vasuclar_varicose_veins,Interventions with limited evidence - Vascular,inpatient admission avoidance,Planned surgical activity (adult)
+cancelled_operations,Cancelled operations,inpatient admission avoidance,Planned surgical activity (adult)
+emergency_elderly,Emergency admissions of older people,length of stay reduction,Hospital activity ameanable to primary care and community interventions
+stroke_early_supported_discharge,Stroke early supported discharge,length of stay reduction,Hospital activity ameanable to primary care and community interventions
+excess_beddays_elective,Excess beds days (elective admissions),length of stay reduction,Hospital activity ameanable to primary care and community interventions
+excess_beddays_emergency,Excess beds days (emergency admissions),length of stay reduction,Hospital activity ameanable to primary care and community interventions
+raid_ip,Admissions with mental health comorbidities,length of stay reduction,Hospital activity ameanable to psychiatric liaison and community psychiatry
+ambulatory_emergency_care_low,Ambulatory emergency care (low potential),length of stay reduction,Emergency department and acute medicine activity
+ambulatory_emergency_care_moderate,Ambulatory emergency care (moderate potential),length of stay reduction,Emergency department and acute medicine activity
+ambulatory_emergency_care_high,Ambulatory emergency care (high potential),length of stay reduction,Emergency department and acute medicine activity
+ambulatory_emergency_care_very_high,Ambulatory emergency care (very high potential),length of stay reduction,Emergency department and acute medicine activity
+enhanced_recovery_bladder,Enhanced recovery (bladder surgery),length of stay reduction,Planned surgical activity (adult)
+enhanced_recovery_breast,Enhanced recovery (breast surgery),length of stay reduction,Planned surgical activity (adult)
+enhanced_recovery_colectomy,Enhanced recovery (colectomy),length of stay reduction,Planned surgical activity (adult)
+enhanced_recovery_hip,Enhanced recovery (hip surgery),length of stay reduction,Planned surgical activity (adult)
+enhanced_recovery_hysterectomy,Enhanced recovery (hysterectomy),length of stay reduction,Planned surgical activity (adult)
+enhanced_recovery_knee,Enhanced recovery (knee surgery),length of stay reduction,Planned surgical activity (adult)
+enhanced_recovery_prostate,Enhanced recovery (prostate surgery),length of stay reduction,Planned surgical activity (adult)
+enhanced_recovery_rectum,Enhanced recovery (rectal surgery),length of stay reduction,Planned surgical activity (adult)
+preop_los,Elective spells with overnight stay before surgery,length of stay reduction,Planned surgical activity (adult)
+bads_outpatients,Elective surgery - recommended mainly outpatient procedure,length of stay reduction,Planned surgical activity (adult)
+bads_daycase_occasional,Elective surgery - recommended occasional day case,length of stay reduction,Planned surgical activity (adult)
+bads_daycase,Elective surgery - recommended mainly day case,length of stay reduction,Planned surgical activity (adult)
+bads_outpatients_or_daycase,Elective surgery - recommended mainly outpatient procedure or day case,length of stay reduction,Planned surgical activity (adult)
+consultant_to_consultant_referrals-adult_non-surgical,Consultant to consultant referrals (adult surgical),outpatient attendance avoidance,Planned surgical activity (adult)
+consultant_to_consultant_referrals-adult_surgical,Consultant to consultant referrals (adult non-surgical),outpatient attendance avoidance,Planned medical activity (adult)
+consultant_to_consultant_referrals-child_non-surgical,Consultant to consultant referrals (child surgical),outpatient attendance avoidance,Planned paediatric activity
+consultant_to_consultant_referrals-child_surgical,Consultant to consultant referrals (child non-surgical),outpatient attendance avoidance,Planned paediatric activity
+followup_reduction-adult_non-surgical,Follow-up attendances (adult surgical),outpatient attendance avoidance,Planned surgical activity (adult)
+followup_reduction-adult_surgical,Follow-up attendances (adult non-surgical),outpatient attendance avoidance,Planned medical activity (adult)
+followup_reduction-child_non-surgical,Follow-up attendances (child surgical),outpatient attendance avoidance,Planned paediatric activity
+followup_reduction-child_surgical,Follow-up attendances (child non-surgical),outpatient attendance avoidance,Planned paediatric activity
+tele_conversion-adult_non-surgical,Telephone appointments (adult surgical),outpatient delivery mode,Planned surgical activity (adult)
+tele_conversion-adult_surgical,Telephone appointments (adult non-surgical),outpatient delivery mode,Planned medical activity (adult)
+tele_conversion-child_non-surgical,Telephone appointments (child surgical),outpatient delivery mode,Planned paediatric activity
+tele_conversion-child_surgical,Telephone appointments (child non-surgical),outpatient delivery mode,Planned paediatric activity
+frequent_attender-adult_ambulance,Frequent attenders (adult ambulance conveyed),A&E attendance avoidance,Emergency department and acute medicine activity
+frequent_attender-adult_walk-in,Frequent attenders (adult walk-in),A&E attendance avoidance,Emergency department and acute medicine activity
+frequent_attender-child_ambulance,Frequent attenders (child ambulance conveyed),A&E attendance avoidance,Emergency department and acute medicine activity
+frequent_attender-child_walk-in,Frequent attenders (child walk-in),A&E attendance avoidance,Emergency department and acute medicine activity
+left_before_treatment-adult_ambulance,Patients who leave before being seen (adult ambulance conveyed),A&E attendance avoidance,Emergency department and acute medicine activity
+left_before_treatment-adult_walk-in,Patients who leave before being seen (adult walk-in),A&E attendance avoidance,Emergency department and acute medicine activity
+left_before_treatment-child_ambulance,Patients who leave before being seen (child ambulance conveyed),A&E attendance avoidance,Emergency department and acute medicine activity
+left_before_treatment-child_walk-in,Patients who leave before being seen (child walk-in),A&E attendance avoidance,Emergency department and acute medicine activity
+low_cost_discharged-adult_ambulance,Low cost discharged attendances (adult ambulance conveyed),A&E attendance avoidance,Emergency department and acute medicine activity
+low_cost_discharged-adult_walk-in,Low cost discharged attendances (adult walk-in),A&E attendance avoidance,Emergency department and acute medicine activity
+low_cost_discharged-child_ambulance,Low cost discharged attendances (child ambulance conveyed),A&E attendance avoidance,Emergency department and acute medicine activity
+low_cost_discharged-child_walk-in,Low cost discharged attendances (child walk-in),A&E attendance avoidance,Emergency department and acute medicine activity
