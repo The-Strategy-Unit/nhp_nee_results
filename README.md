@@ -7,7 +7,7 @@ This repository contains the data and R scripts for [Paper Name with link?]
 
 ***
 
-#### <u>**Set up**</u>
+### <u>**Set up**</u>
 1. To download the files in this repository, click on the green Code button and select Download ZIP to download a ZIP file of the repository. 
 2. Locate the ZIP file saved to your device and extract it to a location of your choice. 
 3. Then in RStudio, select File > Open Project then locate the nee_results.Rproj file in your extracted folder and select it. 
