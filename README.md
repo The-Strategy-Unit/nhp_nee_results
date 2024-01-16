@@ -1,7 +1,7 @@
 ### <u>**NHP National Elicitation Exercise Results Repository**</u>
 ***
 
-##### This repository contains the data and R scripts for [Paper Name with link?]
+#### This repository contains the data and R scripts for [Paper Name with link?]
 ***
 
 #### <u>**Set up**</u>
@@ -12,9 +12,9 @@
 
 ***
 
-#### <u>**Description of files**</u>
+### <u>**Description of files**</u>
 
-##### **derive_empirical_CDFs_final_analysis.R**
+#### **derive_empirical_CDFs_final_analysis.R**
 
 This script uses data in the data_raw folder to create the following:
 
@@ -29,8 +29,6 @@ In chart_outputs folder, files with the following naming conventions
 * pdfs-Main-*.jpg
 * cdfs-Main*.jpg
 * ranges-main-*.jpg
-
-***
 
 ##### **further_analysis_and_plots.R**
 
