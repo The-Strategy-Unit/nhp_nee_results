@@ -1,5 +1,7 @@
-### <u>**NHP National Elicitation Exercise Results Repository**</u>
+## <u>**NHP National Elicitation Exercise Results Repository**</u>
 ***
+
+### **About**
 
 This repository contains the data and R scripts for [Paper Name with link?]
 
@@ -33,7 +35,7 @@ In chart_outputs folder, files with the following naming conventions
 * cdfs-Main*.jpg
 * ranges-main-*.jpg
 
-##### **further_analysis_and_plots.R**
+#### **further_analysis_and_plots.R**
 
 Produces summary statistics and the following three plots included in the report and paper:
 
