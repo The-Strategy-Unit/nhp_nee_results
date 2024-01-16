@@ -1,7 +1,10 @@
 ### <u>**NHP National Elicitation Exercise Results Repository**</u>
 ***
 
-#### This repository contains the data and R scripts for [Paper Name with link?]
+This repository contains the data and R scripts for [Paper Name with link?]
+
+[Description of nee?]
+
 ***
 
 #### <u>**Set up**</u>
