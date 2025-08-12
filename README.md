@@ -3,11 +3,8 @@
 
 ### **About**
 
-This repository contains the data and R scripts for [Paper Name with link?]
+This repository contains the data and R scripts for [Long-term probabilistic forecasts of activity mitigation in English hospitals: a national elicitation exercise providing an outside view based on judgements of experts in support of the New Hospital Programme](https://bmjopen.bmj.com/content/14/10/e084632)
 
-[Description of nee?]
-
-***
 
 ### <u>**Set up**</u>
 1. To download the files in this repository, click on the green Code button and select Download ZIP to download a ZIP file of the repository. 
